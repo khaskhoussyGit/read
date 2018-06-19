@@ -1,6 +1,4 @@
-# read
-read
-# JAVA Coding Standard - Allianz Technology
+# JAVA Coding Standard
 
 ## Spacing Convention
 
